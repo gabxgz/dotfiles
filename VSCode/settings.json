@@ -1,0 +1,68 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "eslint.packageManager": "yarn",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Monokai",
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.advanced.messages": {
+      "suppressCommitHasNoPreviousCommitWarning": false,
+      "suppressCommitNotFoundWarning": false,
+      "suppressFileNotUnderSourceControlWarning": false,
+      "suppressGitVersionWarning": false,
+      "suppressLineUncommittedWarning": false,
+      "suppressNoRepositoryWarning": false,
+      "suppressResultsExplorerNotice": false,
+      "suppressShowKeyBindingsNotice": true,
+      "suppressUpdateNotice": false,
+      "suppressWelcomeNotice": true,
+      "omnisharp.useMono": true
+    },
+    "gitlens.keymap": "alternate",
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "gitlens.historyExplorer.enabled": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "files.watcherExclude": {
+      "**/node_modules/**": false
+    },
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "powermode.enabled": true,
+    "powermode.explosionOrder": "sequential",
+    "powermode.explosionFrequency": 2,
+    "powermode.maxExplosions": 5,
+    "powermode.customCss": {
+      "mix-blend-mode": "color-dodge"
+    },
+    "powermode.explosionOffset": 0.25,
+    "powermode.gifMode": "restart",
+    "powermode.explosionDuration": 500,
+    "powermode.backgroundMode": "mask",
+    "powermode.explosionSize": 5,
+    "powermode.customExplosions": [
+      "https://media.giphy.com/media/xUA7aXJY46jN2P6gGk/giphy.gif",
+      "https://media.giphy.com/media/l0IykOPjEJopboxWw/giphy.gif",
+      "https://media.giphy.com/media/3o7btLYqcZhUb2GP16/giphy.gif"
+    ],
+    "powermode.presets": "fireworks",
+    "powermode.enableStatusBarComboCounter": false,
+    "powermode.enableStatusBarComboTimer": false,
+    "powermode.enableExplosions": false,
+    "powermode.enableShake": false,
+    "search.exclude": {
+      ".babelrc": true
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "docker.containers.groupBy": "ContainerName",
+    "diffEditor.ignoreTrimWhitespace": true,
+}
